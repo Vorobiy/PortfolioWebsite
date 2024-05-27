@@ -1,0 +1,15 @@
+#contactHeader{
+    text-align: center;
+}
+
+form{
+    width: 400px;
+    background-color: gray;
+    border-radius: 15px;
+    padding: 25px;
+    margin:50px auto;
+}
+
+input{
+    width: 100%;
+}
